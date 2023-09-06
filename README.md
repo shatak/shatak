@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 <!--
-**shatak/shatak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I bring innovative ideas to life through code. I have a strong track record of taking abstract concepts and transforming them into tangible, functional applications that deliver value to end-users. 
+My passion is to create and manipulate software to produce visually appealing and user-friendly interfaces. I am excited to leverage my skills to create meaningful impact and contribute to the continued growth and success of your team.
