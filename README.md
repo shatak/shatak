@@ -1,17 +1,14 @@
 ### Hi there 👋
 
+
+
+- 🔭 I’m currently working on My Youtube channel, Projects, my part time teaching job and myself.
+- 🌱 I’m currently learning how to teach and explain stuff in varying levels of difficulty, understanding how people think.
+- 👯 I’m looking to collaborate on Hackathons and web dev projects.
+- 🤔 I’m looking for help with finding a full time Developer job.
+- 📫 How to reach me: [Email](mailTo:jakshat020@gmail.com) or [LinkedIn](https://www.linkedin.com/in/shatak/)
 <!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
 -->
-I bring innovative ideas to life through code. I have a strong track record of taking abstract concepts and transforming them into tangible, functional applications that deliver value to end-users. 
-My passion is to create and manipulate software to produce visually appealing and user-friendly interfaces. I am excited to leverage my skills to create meaningful impact and contribute to the continued growth and success of your team.
+
